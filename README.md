@@ -1,4 +1,4 @@
-一.环境部署
+一.linux环境下的部署
 1. 更新系统并安装基础依赖
 # 更新系统包（Ubuntu/Debian为例）
 sudo apt update && sudo apt upgrade -y
